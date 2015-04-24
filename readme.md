@@ -12,7 +12,7 @@ Como a maior parte do controle é centralizado, então várias vantagem há em s
 Open Msg Server e Open Msg, como exemplo: Para encerrar todas as instâncias de aplicações 
 cliente Open Msg ativas, basta somente clicar em sair no ícone de notificação do Open Msg Server,
 assim o Open Msg Server se responsabiliza de ordenar que todas as aplicações Open Msg sejam encerradas.
-Open Msg Server utiliza Firebird como gerenciados de banco de dados para armazenar as informações, 
+Open Msg Server utiliza Firebird como gerenciador de banco de dados para armazenar as informações, 
 assim garante maior segurança, integridade e desempenho sobre todas as operações. 
 Como o Open Msg Server usa Java como plataforma de execução, então, há uma grande vantagem para quem quer 
 aprimorar ou adicionar novas funcionalidades no programa, por que Java é uma das mais bem projetadas linguagens de programação, já contém em seu ambiente um excelente framework; vários IDEs de desenvolvimento; sintaxe simples, prática e poderosa; multiplataforma e escalável; entre diversas outras características que faz com que
