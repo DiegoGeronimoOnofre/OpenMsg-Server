@@ -1,30 +1,31 @@
+#O que √© OpenMsg Server?
 
-Open Msg Server È um programa open source servidor, escrito em Java que tem
-como principal responsabilidade gerenciar todas as inst‚ncias de aplicaÁıes
+Open Msg Server √© um programa open source servidor, escrito em Java que tem
+como principal responsabilidade gerenciar todas as inst√¢ncias de aplica√ß√µes
 cliente Open Msg previamente conectadas. Assim sendo, Open Msg Server gerencia todas
-as atividades dos processos em execuÁ„o de todas as inst‚ncias Open Msg conectadas, 
-possibilitando um controle centralizado de todas as operaÁıes que s„o realizadas entre
+as atividades dos processos em execu√ß√£o de todas as inst√¢ncias Open Msg conectadas, 
+possibilitando um controle centralizado de todas as opera√ß√µes que s√£o realizadas entre
 o aplicativo cliente e o servidor. Open Msg Server utiliza UDP(User Datagram Protocol) 
-como principal protocolo de comunicaÁ„o, assim viabiliza que toda interatividade
-entre as aplicaÁıes cliente e o servidor sejam feitas com um desempenho super elevado.
-Como a maior parte do controle È centralizado, ent„o v·rias vantagem h· em se utilizar
-Open Msg Server e Open Msg, como exemplo: Para encerrar todas as inst‚ncias de aplicaÁıes 
-cliente Open Msg ativas, basta somente clicar em sair no Ìcone de notificaÁ„o do Open Msg Server,
-assim o Open Msg Server se responsabiliza de ordenar que todas as aplicaÁıes Open Msg sejam encerradas.
-Open Msg Server utiliza Firebird como gerenciados de banco de dados para armazenar as informaÁıes, 
-assim garante maior seguranÁa, integridade e desempenho sobre todas as operaÁıes. 
-Como o Open Msg Server usa Java como plataforma de execuÁ„o, ent„o, h· uma grande vantagem para quem quer 
-aprimorar ou adicionar novas funcionalidades no programa, por que Java È uma das mais bem projetadas linguagens de programaÁ„o, j· contÈm em seu ambiente um excelente framework; v·rios IDEs de desenvolvimento; sintaxe simples, pr·tica e poderosa; multiplataforma e escal·vel; entre diversas outras caracterÌsticas que faz com que
-Java seja conhecida como uma das principais linguagem que ser„o utilizadas no futuro. Para vocÍ empres·rio
-ou empreendedor que quer uma soluÁ„o para que seus colaboradores possam se comunicar sem depender exclusivamente
-da conex„o com a internet, ent„o, Open Msg Server e Open Msg pode ser uma boa escolha, j· que funciona em redes
-internas, sem depender de conex„o com internet. Sendo multiplataforma, vocÍ como administrador de redes e desenvolvedor pode fazer com que o Open Msg Server e Open Msg funcione em Linux, Windows, etc. Entretanto
-recomendo que Open Msg (o aplicativo cliente) seja executado em um sistema operacional que possui ambiente gr·fico, para que os usu·rios n„o tenham dificuldades em sua utilizaÁ„o. Para que seja possÌvel utilizar Open Msg Server em distribuiÁıes linux para servidores que n„o possuem ambiente gr·fico, recomendo que o desenvolvedor desabilite a camada de interface gr·fica e substitua por linha de comando onde seja possÌvel controlar toda a aplicaÁ„o servidora.
+como principal protocolo de comunica√ß√£o, assim viabiliza que toda interatividade
+entre as aplica√ß√µes cliente e o servidor sejam feitas com um desempenho super elevado.
+Como a maior parte do controle √© centralizado, ent√£o v√°rias vantagem h√° em se utilizar
+Open Msg Server e Open Msg, como exemplo: Para encerrar todas as inst√¢ncias de aplica√ß√µes 
+cliente Open Msg ativas, basta somente clicar em sair no √≠cone de notifica√ß√£o do Open Msg Server,
+assim o Open Msg Server se responsabiliza de ordenar que todas as aplica√ß√µes Open Msg sejam encerradas.
+Open Msg Server utiliza Firebird como gerenciados de banco de dados para armazenar as informa√ß√µes, 
+assim garante maior seguran√ßa, integridade e desempenho sobre todas as opera√ß√µes. 
+Como o Open Msg Server usa Java como plataforma de execu√ß√£o, ent√£o, h√° uma grande vantagem para quem quer 
+aprimorar ou adicionar novas funcionalidades no programa, por que Java √© uma das mais bem projetadas linguagens de programa√ß√£o, j√° cont√©m em seu ambiente um excelente framework; v√°rios IDEs de desenvolvimento; sintaxe simples, pr√°tica e poderosa; multiplataforma e escal√°vel; entre diversas outras caracter√≠sticas que faz com que
+Java seja conhecida como uma das principais linguagem que ser√£o utilizadas no futuro. Para voc√™ empres√°rio
+ou empreendedor que quer uma solu√ß√£o para que seus colaboradores possam se comunicar sem depender exclusivamente
+da conex√£o com a internet, ent√£o, Open Msg Server e Open Msg pode ser uma boa escolha, j√° que funciona em redes
+internas, sem depender de conex√£o com internet. Sendo multiplataforma, voc√™ como administrador de redes e desenvolvedor pode fazer com que o Open Msg Server e Open Msg funcione em Linux, Windows, etc. Entretanto
+recomendo que Open Msg (o aplicativo cliente) seja executado em um sistema operacional que possui ambiente gr√°fico, para que os usu√°rios n√£o tenham dificuldades em sua utiliza√ß√£o. Para que seja poss√≠vel utilizar Open Msg Server em distribui√ß√µes linux para servidores que n√£o possuem ambiente gr√°fico, recomendo que o desenvolvedor desabilite a camada de interface gr√°fica e substitua por linha de comando onde seja poss√≠vel controlar toda a aplica√ß√£o servidora.
 Novas funcionalidade podem ser facilmente adicionadas neste projeto, bastando apenas criatividade por parte dos
-desenvolvedores. A utilizaÁ„o de Open Msg Server e Open Msg deve ser analisada, j· que este projeto, pelo menos na vers„o
-atual, n„o se aplica em qual quer contexto. Contextos de rede que possui NAT(Network Address Translation) como
-intermedi·rio das interaÁıes realizadas entre Open Msg Server e todas as inst‚ncias de aplicaÁıes Open Msg inviabilizam
-a utilizaÁ„o destas aplicaÁıes, mas ainda sim, deixo claro para quem pretende usar este projeto e est· considerando
-que o mesmo n„o poder· ser usado em sua empresa,j· que a mesma possui NATs; veja bem, quando digo que este aplicativo n„o suporta NATs intermedi·rios digo que n„o È possÌvel usar o aplicativo se haver um NAT que faz com que a rede funcione internamente, mas pelo conhecimento que tenho, atualmente, NATs s„o usados para possibilitar que computadores e outros dispositivos se conectem com a internet e geralmente internamente NATs n„o s„o usados se a comunicaÁ„o entre as aplicaÁıes È somente interna, por isso digo, que este projeto, sim poder· ser usado em praticamente 99,99% das empresas.
+desenvolvedores. A utiliza√ß√£o de Open Msg Server e Open Msg deve ser analisada, j√° que este projeto, pelo menos na vers√£o
+atual, n√£o se aplica em qual quer contexto. Contextos de rede que possui NAT(Network Address Translation) como
+intermedi√°rio das intera√ß√µes realizadas entre Open Msg Server e todas as inst√¢ncias de aplica√ß√µes Open Msg inviabilizam
+a utiliza√ß√£o destas aplica√ß√µes, mas ainda sim, deixo claro para quem pretende usar este projeto e est√° considerando
+que o mesmo n√£o poder√° ser usado em sua empresa,j√° que a mesma possui NATs; veja bem, quando digo que este aplicativo n√£o suporta NATs intermedi√°rios digo que n√£o √© poss√≠vel usar o aplicativo se haver um NAT que faz com que a rede funcione internamente, mas pelo conhecimento que tenho, atualmente, NATs s√£o usados para possibilitar que computadores e outros dispositivos se conectem com a internet e geralmente internamente NATs n√£o s√£o usados se a comunica√ß√£o entre as aplica√ß√µes √© somente interna, por isso digo, que este projeto, sim poder√° ser usado em praticamente 99,99% das empresas.
 
 . 
