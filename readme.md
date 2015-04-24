@@ -28,4 +28,8 @@ intermediário das interações realizadas entre Open Msg Server e todas as inst
 a utilização destas aplicações, mas ainda sim, deixo claro para quem pretende usar este projeto e está considerando
 que o mesmo não poderá ser usado em sua empresa,já que a mesma possui NATs; veja bem, quando digo que este aplicativo não suporta NATs intermediários digo que não é possível usar o aplicativo se haver um NAT que faz com que a rede funcione internamente, mas pelo conhecimento que tenho, atualmente, NATs são usados para possibilitar que computadores e outros dispositivos se conectem com a internet e geralmente internamente NATs não são usados se a comunicação entre as aplicações é somente interna, por isso digo, que este projeto, sim poderá ser usado em praticamente 99,99% das empresas.
 
+Web Site Atual: http://tecnologiadigital.net
+Email: diego@tecnologiadigital.net
+Email: diegogeronimoonofre@outlook.com
+
 . 
