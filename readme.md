@@ -36,4 +36,6 @@ Email: diego@tecnologiadigital.net
 
 Email: diegogeronimoonofre@outlook.com
 
+Doações podem serem feitas pelo Site atual do Desenvolvedor.
+
 . 
