@@ -30,12 +30,6 @@ que o mesmo não poderá ser usado em sua empresa,já que a mesma possui NATs; v
 
 Link para o cliente:https://github.com/DiegoGeronimoOnofre/OpenMsg
 
-Site atual do Desenvolvedor: http://tecnologiadigital.net
-
-Email: diego@tecnologiadigital.net
-
 Email: diegogeronimoonofre@outlook.com
-
-Doações podem serem feitas pelo Site atual do Desenvolvedor.
 
 . 
