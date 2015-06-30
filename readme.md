@@ -30,6 +30,8 @@ que o mesmo não poderá ser usado em sua empresa,já que a mesma possui NATs; v
 
 Link para o cliente:https://github.com/DiegoGeronimoOnofre/OpenMsg
 
-Email: diegogeronimoonofre@outlook.com
+channel https://www.youtube.com/user/cursostd
+
+facebook https://www.facebook.com/diegogeronimoonofre
 
 . 
