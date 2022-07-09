@@ -16,9 +16,8 @@ Open Msg Server utiliza Firebird como gerenciador de banco de dados para armazen
 assim garante maior segurança, integridade e desempenho sobre todas as operações. Para você empresário
 ou empreendedor que quer uma solução para que seus colaboradores possam se comunicar sem depender exclusivamente
 da conexão com a internet, então, Open Msg Server e Open Msg pode ser uma boa escolha, já que funciona em redes
-internas, sem depender de conexão com internet. Sendo multiplataforma, você como administrador de redes e desenvolvedor pode fazer com que o Open Msg Server e Open Msg funcione em Linux, Windows, etc.
-Novas funcionalidade podem ser facilmente adicionadas neste projeto, bastando apenas criatividade por parte dos
-desenvolvedores.
+internas, sem depender de conexão com internet. Novas funcionalidade podem ser facilmente adicionadas neste projeto, 
+bastando apenas criatividade por parte dos desenvolvedores.
 
 Perfil Facebook: https://www.facebook.com/diegogeronimoonofre
 
