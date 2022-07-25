@@ -19,8 +19,6 @@ da conexão com a internet, então, Open Msg Server e Open Msg pode ser uma boa 
 internas, sem depender de conexão com internet. Novas funcionalidade podem ser facilmente adicionadas neste projeto, 
 bastando apenas criatividade por parte dos desenvolvedores.
 
-Perfil Facebook: https://www.facebook.com/diegogeronimoonofre
-
 Canal Youtube: https://www.youtube.com/user/cursostd
 
 Cliente: https://github.com/DiegoGeronimoOnofre/OpenMsg. 
